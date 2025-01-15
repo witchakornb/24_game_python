@@ -70,7 +70,7 @@ You can use +, -, *, /, and parentheses.
 
 Round 1 of 5
 Numbers: [10, 15, 6, 15]
-Enter your solution (e.g., '(8 + 2) * (3 + 1)'): (15 / (15 / 6)) + 10
+Enter your solution (e.g., '(8 + 2) * (3 + 1)'): ((15 / 10) * 6) + 15
 Correct! You scored 10 points.
 ```
 
